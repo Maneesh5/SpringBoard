@@ -3,7 +3,7 @@ Training dataset  was collected from Kaggle Jigsaw/Conversation AI challenge (ht
 
 
 ## Size
-CSV zip file size is 273 mb (Uncompressed file size is 778 MB)
+CSV zip file size is 273 mb (Uncompressed file size is 778 MB).                     
 File contains around 1.8 million entries. 
 
 
